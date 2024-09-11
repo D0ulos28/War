@@ -26,7 +26,7 @@ This is a simple card game created in Python, based on a variation of the tradit
 
 ```bash
 git clone https://github.com/D0ulos28/War.git
-cd war-card-game
+cd War
 python game.py
 ```
 
